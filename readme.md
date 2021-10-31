@@ -1,0 +1,4 @@
+- "yarn install" hoặc "npm install" để tải dependency
+- "yarn test" hoặc "npm test" để chạy (cần có nodejs)
+- Findindex.js: hàm unit test
+- Findindex.test.js: Kiểm thử
